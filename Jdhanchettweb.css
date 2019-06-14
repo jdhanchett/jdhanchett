@@ -1,0 +1,65 @@
+body {
+    padding-top: 20px;
+    font-family: "Saira Semi Condensed" ,'Nanum Gothic', sans-serif;
+}
+.intro {
+    background-color: white;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+.nav-item{
+    padding-left: 20px;
+    padding-right: 20px;
+    letter-spacing: 4px;
+}
+
+
+.secondHeading{
+    padding-bottom: 15px;
+}
+
+h1 {
+    letter-spacing: 4px;
+    padding-top:20;
+    text-align: center;
+    color: #000000;
+    padding-top: 30px;
+    font-size: 200%;
+    transform: scaleY(1.2);
+    font-style: "PT Sans Narrow";
+}
+
+h4 {
+    font-size: 65%;
+    color: #9c9c9c;
+    padding-left: 7px;
+    padding-right: 7px;  
+}
+
+a{
+    color: #9c9c9c;
+}
+
+a:hover{
+    color: black;
+}
+
+
+ul {
+    
+    font-size: 70%;
+    color: #9c9c9c;
+
+}
+
+#baselImg{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 0 auto;
+    max-width: 930px;
+}
+.card {
+    font-family: 'Nanum Gothic';
+}
