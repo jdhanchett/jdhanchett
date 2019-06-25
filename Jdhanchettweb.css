@@ -119,4 +119,6 @@ h5{
     
 }
 
-
+.dropdown-backdrop {
+    position: static;
+}
