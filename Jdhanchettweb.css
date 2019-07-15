@@ -71,7 +71,9 @@ p.card-text{
     justify-content: center; 
     position: static;
 }
-
+.dropdown-backdrop{
+    position: static;
+}
 
 h4 {
     font-size: 65%;
