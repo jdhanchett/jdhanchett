@@ -2,6 +2,7 @@ body {
     padding-top: 20px;
     font-family: "Saira Semi Condensed" ,'Nanum Gothic', sans-serif;
 }
+
 .intro {
     background-color: white;
     text-align: center;
@@ -9,10 +10,7 @@ body {
     
 }
 
-.dropdown-item{
-    justify-content: center;
-    margin: 0 auto;
-}
+
 
 .secondHeading{
     padding-bottom: 15px;
@@ -20,7 +18,6 @@ body {
 
 h1 {
     letter-spacing: 4px;
-    
     padding-bottom:10px;
     text-align: center;
     color: #000000;
@@ -29,6 +26,12 @@ h1 {
     transform: scaleY(1.2);
     font-family: "PT Sans Narrow";
 }
+.dropdown-menu{
+    justify-content: center;
+    margin: 0 auto;
+    text: center;
+}
+
 
 div {
     justify-content: center;
@@ -49,15 +52,17 @@ p.card-text{
     font-size: 80%;
 }
 
+
+
 #navbar-toggler-icon {
     position: center;
 }
 
 .nav-item{
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
     letter-spacing: 4px;
-    justify-content: center;
+    
 }
 
 .card-body{
@@ -69,7 +74,7 @@ p.card-text{
     font-size: 90%;
     border: none;
     justify-content: center;  
-    position: static;
+    
 }
 
 
@@ -81,9 +86,10 @@ h4 {
     letter-spacing: 4px;
 }
 
-.nav-item{
+/* .nav-item{
     padding-bottom: 10px;
-}
+} */
+
 a{
     color: #9c9c9c;
 }
@@ -91,7 +97,6 @@ a{
 a:hover{
     color: black;
 }
-
 
 li:hover{
     cursor: pointer;
@@ -119,19 +124,17 @@ ul {
 h2 {
     padding-top: 10px;
 }
+
 .card {
     font-family: 'Saira Semi Condensed';
     color: #9c9c9c;
     text-transform: capitalize;
 }
 
-
 h5{
     max-width: 850px;
     margin: 0 auto;
 }
-
-
 
 #socialLinks a{
  width: 2em;
@@ -140,18 +143,13 @@ h5{
  
 }
 
-#socialLinks{
-    
-    padding-top: 20px;
-    
+#socialLinks{    
+    padding-top: 20px; 
 }
-
-
 
 #info {
     position: center;
     text-align: center;
-    
 }
 
 .social{
