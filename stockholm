@@ -1,0 +1,230 @@
+
+ 
+ <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Grand Rapids Coffee Run</title>
+
+    
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="Jdhanchettweb.css">
+
+    <!-- Google Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Saira+Semi+Condensed&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow&display=swap" rel="stylesheet">
+  
+    <!-- Font Awesome-->
+    <script src="https://kit.fontawesome.com/a97068fbc9.js"></script>
+  </head>
+  <body>
+<div class="canvas">
+<section class="intro">
+    <h1>JDHANCHETT</h1>
+    <section class="secondHeading">
+      <h4>URBAN SKETCHER</h4>
+      
+    </section>
+    <nav class="navbar justify-content-center navbar-expand-lg navbar-light ">
+  
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item"> 
+            <a class="nav-link" href="index.html">HOME</a>
+           </li>
+           <li class="nav-item">
+              <a class="nav-link" href="collections.html"><i class="far fa-images" aria-hidden="true"></i>COLLECTIONS</a>
+            </li>
+           <li class="nav-item">
+             <a class="nav-link" href="about.html">ABOUT</a>
+           </li>
+           <li class="nav-item">
+             <a class="nav-link" href="contact.html">CONTACT</a>
+           </li> 
+            
+        </ul>
+      </div>
+    </nav>
+</section>
+
+    <section id="gallery">
+      <div class="container-fluid">
+        <div class="row">
+          
+          <div class="col-lg-6 col-xl-4 mb-4">
+            <div class="card" style="">
+              <img class="card-img-top" src="img/chicago/0.1.jpg" alt="Card image cap">
+              <div class="card-body">
+              <h5 class="card-title"></h5>
+              <p class="card-text"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-xl-4 mb-4">
+              <div class="card" style="">
+                <img class="card-img-top" src="img/chicago/1.jpg" alt="Card image cap">
+                <div class="card-body">
+                <h5 class="card-title"></h5>
+                <p class="card-text"></p>
+                </div>
+              </div>
+           </div> 
+           <div class="col-lg-6 col-xl-4 mb-4">
+              <div class="card" style="">
+                <img class="card-img-top" src="img/chicago/2.jpg" alt="Card image cap">
+                <div class="card-body">
+                <h5 class="card-title"></h5>
+                <p class="card-text"></p>
+                </div>
+              </div>
+           </div>
+           
+           <div class="col-lg-6 col-xl-4 mb-4">
+              <div class="card" style="">
+                <img class="card-img-top" src="img/chicago/4.jpg" alt="Card image cap">
+                <div class="card-body">
+                <h5 class="card-title"></h5>
+                <p class="card-text"><p>
+                </div>
+              </div>
+           </div>  
+           <div class="col-lg-6 col-xl-4 mb-4">
+                <div class="card" style="">
+                  <img class="card-img-top" src="img/chicago/5.jpg" alt="Card image cap">
+                  <div class="card-body">
+                  <h5 class="card-title"></h5>
+                  <p class="card-text"></p>
+                  </div>
+                </div>
+           </div>  
+           <div class="col-lg-6 col-xl-4 mb-4">
+                <div class="card" style="">
+                  <img class="card-img-top" src="img/chicago/6.jpg" alt="Card image cap">
+                  <div class="card-body">
+                  <h5 class="card-title"></h5>
+                  <p class="card-text"></p>
+                  </div>
+                </div>
+            </div> 
+            <div class="col-lg-6 col-xl-4 mb-4">
+                <div class="card" style="">
+                 <img class="card-img-top" src="img/chicago/7.jpg" alt="Card image cap">
+                 <div class="card-body">
+                 <h5 class="card-title"></h5>
+                 <p class="card-text"></p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-4">
+                <div class="card" style="">
+                  <img class="card-img-top" src="img/chicago/0.jpg" alt="Card image cap">
+                  <div class="card-body">
+                  <h5 class="card-title"></h5>
+                  <p class="card-text"></p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-4">
+              <div class="card" style="">
+                <img class="card-img-top" src="img/chicago/8.jpg" alt="Card image cap">
+                <div class="card-body">
+                <h5 class="card-title"></h5>
+                <p class="card-text"></p>
+              </div>
+            </div>
+            
+           
+      </div>
+            <!-- </div>
+            <div class="col-lg-6 col-xl-4 mb-4">
+                    <div class="card" style="">
+                    <img class="card-img-top" src="img/chicago/11.jpg" alt="Card image cap">
+                    <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <p class="card-text"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-4">
+                    <div class="card" style="">
+                    <img class="card-img-top" src="img/chicago/12.jpg" alt="Card image cap">
+                    <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <p class="card-text"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-4">
+                    <div class="card" style="">
+                    <img class="card-img-top" src="img/chicago/13.jpg" alt="Card image cap">
+                    <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <p class="card-text"></p>
+                    </div>
+                </div>
+            </div> -->
+            <!-- <<div class="col-lg-6 col-xl-4 mb-4">
+                    <div class="card" style="">
+                    <img class="card-img-top" src="img/cherry.jpg" alt="Card image cap">
+                    <div class="card-body">
+                    <h5 class="card-title">Jaarsma Bakery</h5>
+                    <p class="card-text">dfasdf</p>
+                    </div>
+                </div>
+            </div>            
+            <div class="col-lg-6 col-xl-4 mb-4">
+                    <div class="card" style="">
+                    <img class="card-img-top" src="img/cherry.jpg" alt="Card image cap">
+                    <div class="card-body">
+                    <h5 class="card-title">Jaarsma Bakery</h5>
+                    <p class="card-text">dfasdf</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4 mb-4">
+                    <div class="card" style="">
+                    <img class="card-img-top" src="img/cherry.jpg" alt="Card image cap">
+                    <div class="card-body">
+                    <h5 class="card-title">Jaarsma Bakery</h5>
+                    <p class="card-text">dfasdf</p>
+                    </div>
+                </div>
+            </div> -->
+
+
+
+
+
+
+
+        </div>    
+      </div>
+    </section>
+  </div>
+
+  <div id="socialLinks" class="container">
+    <a href="https://instagram.com/jdhanchett"  ><i class="fab fa-instagram"></i></a>
+    <a href="https://www.facebook.com/Jdhanchett/"><i class="fab fa-facebook-square"></i></a>
+    <a href="https://www.flickr.com/people/josiahdhan9/"><i class="fab fa-flickr"></i></a>
+    <a href="https://www.linkedin.com/in/josiah-hanchett-77757a549"><i class="fab fa-linkedin"></i></a>
+    <a href="https://www.youtube.com/channel/UCyQL_QBQwPSkuDNg1Tjk4qg"><i class="fab fa-youtube"></i></a>
+    <a href="https://www.etsy.com/shop/JosiahsSketches"><i class="fab fa-etsy"></i>
+  </div>
+
+
+  
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+ </body>
+</html>
